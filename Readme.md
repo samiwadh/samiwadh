@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
-- 🌱 I’m currently learning **Oracle ERP , Database**
-
 - 💬 Ask me about **Oracle ERP , Database**
 
 - 📫 How to reach me **samiwadho1988@gmail.com**
@@ -14,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18639433/samiwadho-786?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18639433/samiwadho-786?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/samiwadho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiwadho" height="30" width="40" /></a>
+<a href="https://fb.com/Sami Wadho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sami Wadho" height="30" width="40" /></a>
 <a href="https://instagram.com/samiwadho786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiwadho786" height="30" width="40" /></a>
 <a href="https://discord.gg/samiwadho#0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samiwadho#0" height="30" width="40" /></a>
 </p>
