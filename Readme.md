@@ -8,34 +8,19 @@
 ---
 
 🎓 **Computer Science Graduate** – *University of Sindh*  
-🔍 **Currently specializing in Artificial Intelligence** through **PIAIC** and **NAVTTC**  
-🧠 **Hands-on Research Experience** in:
-- DDoS Attack Detection using ML
-- Deep Learning in Plant Disease Recognition
-- Handwriting Recognition using TensorFlow
+🔍 Currently advancing my expertise in **Artificial Intelligence** through **PIAIC** and **NAVTTC** programs.  
+🧠 With hands-on experience in both **academic research** and **industry-level projects**, I focus on building intelligent systems that solve real-world problems.
 
-👨‍💻 **Skilled in:**
-- Databases: Oracle, SQL Server, MySQL, PostgreSQL
-- Backend & APIs: Python, Django
-- Machine Learning: Scikit-learn, TensorFlow, PyTorch
-- Frontend Basics: HTML, CSS
-- Reporting Tools: Oracle Forms & Reports, Visual Studio
-- Version Control: Git, GitHub
+👨‍💻 **Technologies I Work With:**
+- **Databases**: Oracle, PostgreSQL, SQL Server, MySQL  
+- **Languages & Frameworks**: Python, C#, Django, PL/SQL  
+- **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, OpenCV  
+- **Other Tools**: Git, Linux, Oracle Forms & Reports, VS Code  
 
-💬 I’m open to discussions about:  
-`AI Projects`, `ERP Systems`, `Database Design`, `Model Training`, `SQL Optimization`
+💬 I'm especially passionate about:
+`Database Design`, `ERP Systems`, `Machine Learning`, `Model Training`, `AI-driven Solutions`
 
 📫 **Contact me:** `samiwadho1988@gmail.com`
-
----
-
-### 🚀 Featured Projects
-- 💥 Detection of DDoS Attacks using ML Models
-- 🌿 Plant Disease Detection with Deep Learning
-- ✍️ Handwriting Recognition – TensorFlow & Keras
-- 📚 Note Nexus System – Python, Django
-- 💇 Beauty Salon Manager – Oracle PL/SQL
-- 🧾 Attendance System – C# & SQL Server
 
 ---
 
@@ -60,10 +45,9 @@
 
 ---
 
-### 🧠 Research Interests
-`Artificial Intelligence`, `Machine Learning`, `Deep Learning`,  
-`Generative AI`, `Remote Sensing`, `Reinforcement Learning`,  
-`Computer Vision`, `Human–AI Interaction`, `Natural Language Processing`
+### 🧠 Research & Professional Interests
+`Artificial Intelligence`, `Machine Learning`, `Database Systems`,  
+`Deep Learning`, `Generative AI`, `Computer Vision`, `Remote Sensing`,  
+`Natural Language Processing`, `Reinforcement Learning`, `Big Data`
 
 ---
-
