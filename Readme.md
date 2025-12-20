@@ -35,16 +35,7 @@
   <a href="https://www.linkedin.com/in/abdul-sami-wadho-b021ab2bb/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://www.kaggle.com/samiwadho" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kaggle.svg" alt="Kaggle" height="30" width="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/23560311/samiwadho" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/samiwadho786" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="mailto:samiwadho1988@gmail.com" target="_blank">
+  <a href="mailto:samiwadho2002@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" height="30" width="30" />
   </a>
 </p>
