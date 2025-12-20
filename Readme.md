@@ -26,7 +26,7 @@
 - **Plant Disease Detection** – Deep learning using TensorFlow/Keras  
 - **Global and Italy SDI Analysis (1950–2021)** –Explores long-term global and Italy-specific SDI trends with time-series transformations and visualisations.
   
-📫 **Contact me:** `samiwadho1988@gmail.com`
+📫 **Contact me:** `samiwadho2002@gmail.com`
 
 ---
 
