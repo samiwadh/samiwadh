@@ -6,13 +6,14 @@
 </p>
 
 ---
+🎓 **Currently studying** – *M.Sc. in Data Science, University of Milano-Bicocca, Italy*  
+🎓 **B.Sc. in Computer Science** – *University of Sindh, Pakistan*  
 
-🎓 **Computer Science Graduate** – *University of Sindh*  
-🔍 Currently advancing my expertise in **Artificial Intelligence** through **PIAIC** and **NAVTTC** programs.  
-🧠 With hands-on experience in both **academic research** and **industry-level projects**, I focus on building intelligent systems that solve real-world problems.
+🔍 Advancing expertise in **Artificial Intelligence, Machine Learning, and Data Science** through academic research and real-world projects.  
+🧠 Experienced in both **research and industry-level projects**, focusing on building **intelligent systems** and **data-driven solutions**.
 
 👨‍💻 **Technologies I Work With:**
-- **Databases**: Oracle, PostgreSQL, SQL Server, MySQL  
+- **Databases**: Oracle, SQL Server, MySQL  
 - **Languages & Frameworks**: Python, C#, Django, PL/SQL  
 - **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, OpenCV  
 - **Other Tools**: Git, Linux, Oracle Forms & Reports, VS Code  
@@ -20,6 +21,11 @@
 💬 I'm especially passionate about:
 `Database Design`, `ERP Systems`, `Machine Learning`, `Model Training`, `AI-driven Solutions`
 
+### 🏆 Projects & Research Highlights
+- **Suicide Rate Prediction** – XGBoost & J48 in KNIME, regression & classification models  
+- **Plant Disease Detection** – Deep learning using TensorFlow/Keras  
+- **Global and Italy SDI Analysis (1950–2021)** –Explores long-term global and Italy-specific SDI trends with time-series transformations and visualisations.
+  
 📫 **Contact me:** `samiwadho1988@gmail.com`
 
 ---
