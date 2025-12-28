@@ -16,7 +16,7 @@
 - **Databases**: Oracle, SQL Server, MySQL  
 - **Languages & Frameworks**: Python, C#, Django, PL/SQL  
 - **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, OpenCV  
-- **Other Tools**: Git, Linux, Oracle Forms & Reports, VS Code  
+- **Other Tools**: KNIME,Git, Linux, Oracle Forms & Reports, VS Code  
 
 💬 I'm especially passionate about:
 `Database Design`, `ERP Systems`, `Machine Learning`, `Model Training`, `AI-driven Solutions`
