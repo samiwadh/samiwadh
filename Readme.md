@@ -4,13 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samiwadh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,sql,mysql,oracle,django,csharp,git,linux&perline=6" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiwadh&layout=compact&theme=tokyonight" />
-</p>
 ---
 🎓 **Currently studying** – *M.Sc. in Data Science, University of Milano-Bicocca, Italy*  
 🎓 **B.Sc. in Computer Science** – *University of Sindh, Pakistan*  
