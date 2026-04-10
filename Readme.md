@@ -77,7 +77,7 @@ Seeking opportunities in:
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-sami-wadho-b021ab2bb/" target="_blank">
+  <a href="[https://www.linkedin.com/in/abdul-sami-wadho-b021ab2bb](https://www.linkedin.com/in/abdul-sami-b021ab2bb/)s/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:samiwadho2002@gmail.com" target="_blank">
