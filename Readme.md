@@ -18,7 +18,7 @@ I enjoy working on projects involving data analysis, predictive modeling, and in
 # 🧠 Skills & Technologies
 
 ## 💻 Programming Languages
-Python, C#, SQL, PL/SQL
+Python, C#, SQL, PL/SQL,R
 
 ## 🤖 Machine Learning & AI
 Scikit-learn, TensorFlow, PyTorch, OpenCV
