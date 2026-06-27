@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Sami </h1>
+<h1 align="center">Hi, I'm Abdul Sami </h1>
 <h3 align="center">AI Enthusiast | Database Developer | ML Researcher | Pakistan</h3>
 
 <p align="center">
@@ -6,8 +6,8 @@
 </p>
 
 
-🎓 I am currently pursuing a Master’s in Data Science at the University of Milano-Bicocca, Italy  
-🎓 Bachelor’s in Computer Science – University of Sindh, Pakistan  
+ I am currently pursuing a Master’s in Data Science at the University of Milano-Bicocca, Italy  
+ Bachelor’s in Computer Science – University of Sindh, Pakistan  
 
 I am passionate about Artificial Intelligence, Machine Learning, and Data Science, with a strong focus on building practical, data-driven solutions using real-world datasets.
 
@@ -15,40 +15,67 @@ I enjoy working on projects involving data analysis, predictive modeling, and in
 
 ---
 
-# 🧠 Skills & Technologies
+# Skills & Technologies
 
-## 💻 Programming Languages
+##  Programming Languages
 Python, C#, SQL, PL/SQL,R
 
-## 🤖 Machine Learning & AI
+##  Machine Learning & AI
 Scikit-learn, TensorFlow, PyTorch, OpenCV
 
-## 🗄️ Databases
+##  Databases
 Oracle, SQL Server, MySQL
 
-## ⚙️ Tools & Frameworks
+## Tools & Frameworks
 Django, Linux, Git, VS Code, KNIME
 
 ---
+# 🎯 Areas of Interest
 
-# 📊 Areas of Interest
-
-- Data Analysis & Visualization  
+- Data Analysis & Data Visualization  
 - Machine Learning & Predictive Modeling  
-- Artificial Intelligence Systems  
-- Data Engineering & Databases  
-- Business Intelligence Solutions  
+- Artificial Intelligence & Deep Learning Systems  
+- Data Engineering & Database Systems  
+- Business Intelligence & Decision Support Systems  
+- Explainable AI (XAI) & Model Interpretability  
 
 ---
 
-# 🏆 Projects & Research
+# 🚀 Projects & Research
 
-- **Multi-source Data Integration Project** (US Retail Sales & Public Holiday Analysis)   
-- **Global & Italy SDI Analysis (1950–2021)** using time-series data  
-- **Suicide Rate Prediction** using XGBoost & J48 (KNIME)
-- **Plant Disease Detection** using Deep Learning (TensorFlow / Keras)  
-- **Handwriting Recognition System** using CNN models
-- **Database & Automation Systems** (Oracle, SQL Server, C#)
+
+- **Explainable Brain Tumor MRI Classification (Grad-CAM)**  
+  Deep learning medical imaging project using EfficientNetB0 with Grad-CAM explainability and targeted misclassification analysis to improve model interpretability.
+
+  - **ML Classification of Spine Health for Predicting Lower Back Pain**  
+  Machine learning project using biomechanical spinal features and multiple classifiers (Random Forest, Gradient Boosting, KNN) to predict spinal condition with SMOTE-based imbalance handling.
+
+- **Mental Health Data Integration & Analysis (Global Study)**  
+  End-to-end data integration project combining WHO and World Bank datasets to analyze global mental health trends, including data cleaning, SQL storage, and exploratory analysis.
+  
+- **Knowledge Graph-Enhanced RAG for Academic Question Answering**  
+  Curriculum-based question answering system combining Retrieval-Augmented Generation (RAG) with a Knowledge Graph to improve contextual and academic reasoning over course PDFs (University of Milano-Bicocca).
+  
+- **Audio Keyword Recognition using Deep Learning**  
+  CNN-based speech command recognition system using Log-Mel spectrograms, achieving 95%+ accuracy and outperforming transfer learning baselines (MobileNetV2).
+
+- **Determinants of Financial Literacy Among Italian Adults (IACOFI 2023)**  
+  Statistical and machine learning analysis of financial literacy in Italy using survey data, including regression modeling, clustering, and feature engineering.
+
+- **Multi-source Data Integration Project (US Retail Sales & Public Holiday Analysis)**  
+  Data engineering pipeline integrating retail transaction data with US public holiday API to study demand patterns and seasonal effects.
+
+- **Global & Italy SDI Analysis (1950–2021)**  
+  Time-series analysis of socio-economic development indicators using statistical methods and visualization techniques.
+  
+- **Plant Disease Detection**  
+  Deep learning-based image classification using CNNs (TensorFlow / Keras) for agricultural disease detection.
+
+- **Handwriting Recognition System**  
+  CNN-based digit recognition system trained on image datasets for pattern recognition tasks.
+
+- **Database & Automation Systems**  
+  SQL Server, Oracle, and C#-based systems for database management and automation workflows..
 
 ---
 
