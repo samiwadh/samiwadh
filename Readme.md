@@ -30,7 +30,7 @@ Oracle, SQL Server, MySQL
 Django, Linux, Git, VS Code, KNIME
 
 ---
-# 🎯 Areas of Interest
+#  Areas of Interest
 
 - Data Analysis & Data Visualization  
 - Machine Learning & Predictive Modeling  
@@ -41,13 +41,13 @@ Django, Linux, Git, VS Code, KNIME
 
 ---
 
-# 🚀 Projects & Research
+#  Projects & Research
 
 
 - **Explainable Brain Tumor MRI Classification (Grad-CAM)**  
   Deep learning medical imaging project using EfficientNetB0 with Grad-CAM explainability and targeted misclassification analysis to improve model interpretability.
 
-  - **ML Classification of Spine Health for Predicting Lower Back Pain**  
+- **ML Classification of Spine Health for Predicting Lower Back Pain**  
   Machine learning project using biomechanical spinal features and multiple classifiers (Random Forest, Gradient Boosting, KNN) to predict spinal condition with SMOTE-based imbalance handling.
 
 - **Mental Health Data Integration & Analysis (Global Study)**  
@@ -79,25 +79,26 @@ Django, Linux, Git, VS Code, KNIME
 
 ---
 
-# 📌 Experience
+#  Experience
 
 - AI Research Intern – Worked on model development, dataset preparation, and evaluation  
 - Junior AI Engineer – Supported machine learning research and experimentation  
 - Database Developer – Built and managed SQL-based systems and reporting solutions  
 
 
-# 🚀 Goal
+#  Goal
 
 Seeking opportunities in:
 - Data Science  
 - Machine Learning Engineering  
 - Data Analysis / Business Intelligence
 - 
-### 🧠 Research & Professional Interests
-`Artificial Intelligence`, `Machine Learning`, `Database Systems`,  
-`Deep Learning`, `Generative AI`, `Computer Vision`, `Remote Sensing`,  
-`Natural Language Processing`, `Reinforcement Learning`, `Big Data`
+###  Research & Professional Interests
 
+`Artificial Intelligence`, `Machine Learning`, `Deep Learning`, `Medical AI`, 
+`Generative AI`, `Computer Vision`, `Natural Language Processing`,  
+`Reinforcement Learning`,  `Database Systems`,  
+`Big Data Analytics`, `Data Engineering`, `Explainable AI (XAI)`, `MLOps
 ---
 
 ---
