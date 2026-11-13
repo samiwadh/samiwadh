@@ -97,10 +97,10 @@ Django, FastAPI, Linux, Git, VS Code
 ## 💼 Experience
 
 - **Residence Peer-to-Peer Tutor** – University of Milano-Bicocca (2026 – Present)
-- **Junior AI Engineer** – AIEYS (2025): supported machine learning research and experimentation
-- **AI Research Intern** – AIEYS (2024 – 2025): model development, dataset preparation and evaluation
-- **Database Engineer** – FA Cyber Solutions (2021 – 2023): built and managed SQL-based systems and reporting solutions
-
+- **Junior AI Engineer** – AIEYS (Apr 2025 – May 2025): supported machine learning research and experimentation
+- **AI Research Intern** – AIEYS (Oct 2024 – Mar 2025): model development, dataset preparation and evaluation
+- **Database Engineer** – FA Cyber Solutions (Feb 2022 – Feb 2023): built and managed SQL-based systems and reporting solutions
+- **Database Engineer Intern** – FA Cyber Solutions (Nov 2021 – Feb 2022): developed database solutions with C#, SQL and PL/SQL; created applications and reports with Oracle Forms
 ---
 
 ## 🎯 Goal
